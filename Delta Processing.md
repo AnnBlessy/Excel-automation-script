@@ -270,16 +270,3 @@ are designed.
 
 👉 You just moved from:
 **Script → Data Engineering System**
-
----
-
-# 🚀 If you want next level
-
-I can help you build:
-
-* 🔁 Incremental row-level updates (not just file-level)
-* 🧠 Hash-based change detection
-* 📊 Auto Power BI refresh
-* 🗄️ SQL + history tracking (slowly changing dimensions)
-
-Just tell me 👍
